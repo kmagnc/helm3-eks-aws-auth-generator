@@ -1,0 +1,3 @@
+eksNodeIAMRole:             "arn:aws:iam::000000zero00:/role/role1"
+eksAdminUsersIAMRole:       "arn:aws:iam::000000zero00:/role/role2"
+eksNamespaceAUsersIAMRole:  "arn:aws:iam::000000zero00:/role/role3"
